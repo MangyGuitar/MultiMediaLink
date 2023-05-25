@@ -1,5 +1,4 @@
-
-
+THIS PLUGIN IS UNDER DEVELOPMENT AND IS NOT CURRENTLY AVAILABLE
 
 # MultiMediaLink
 MultiMediaLink is a versatile Minecraft plugin that allows you to easily display custom text and links within the game. With MultiMediaLink, players can access relevant information by using simple commands. For example, using "/discord" will display the link to the Discord server, and using "/twitter" will show the server's Twitter username.
