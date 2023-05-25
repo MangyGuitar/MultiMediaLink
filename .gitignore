@@ -22,3 +22,38 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+# Directorios y archivos generados automáticamente
+/target/
+/build/
+/.gradle/
+/.idea/
+
+# Archivos de configuración específicos de IDE
+*.iml
+*.ipr
+*.iws
+
+# Archivos de configuración de Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Archivos compilados
+*.class
+
+# Archivos de datos o configuración específicos del servidor
+/server.properties
+/bukkit.yml
+/spigot.yml
+/bukkit.yml
+
+# Archivos de caché o temporales
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Directorio de dependencias
+/libs/
