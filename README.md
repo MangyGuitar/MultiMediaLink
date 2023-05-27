@@ -11,6 +11,6 @@ The plugin's configuration is done through the config.yml file, enabling you to 
 MultiMediaLink is a practical tool for sharing key information with players and keeping them connected to your communication channels. Make the most of this tool to enhance the player experience and encourage active participation on your server.
 
 ## Support
-This plugin is developed by MangyGuitar5816#8358. Need support? Join our Discord server at discord.gg/EmkG3KHYMD. Our server is composed of 4 developers, each with expertise in different areas such as JavaScript and Python. The four developers are MangyGuitar5816#8358, LostString#9869, LUISBUENO123#7497, and XhrissRick#5473.
+This plugin is developed by MangyGuitar5816#8358. Need support? Join our Discord server at `discord.gg/EmkG3KHYMD`. Our server is composed of 4 developers, each with expertise in different areas such as JavaScript and Python. The four developers are MangyGuitar5816#8358, LostString#9869, LUISBUENO123#7497, and XhrissRick#5473.
 
 
