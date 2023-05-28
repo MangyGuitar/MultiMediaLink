@@ -1,5 +1,5 @@
 ### ``THIS PLUGIN IS IN BETA IF YOU FIND ANY BUG JOIN THE DISCORD: discord.gg/EmkG3KHYMD ``
-##Official Version: 1.17.1
+Official Version: 1.17.1
 
 ![static (3)](https://github.com/MangyGuitar/MultiMediaLink/assets/114024328/ae89f123-9dad-4dce-bd45-ad819aae106d)
 # MultiMediaLink
