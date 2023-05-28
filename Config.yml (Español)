@@ -1,0 +1,68 @@
+Config:
+  noperm: '&cLosiento pero no tienes permisos para esto'
+  
+  help-message: true
+  message-help-text:
+  - '&7---------------------------------------'
+  - '&7'
+  - '&l&6 /MultiMediaLink help | Muestra este mensaje'
+  - '&l&6 /MultiMediaLink version | Muestra la versión del plugin'
+  - '&l&6 /MultiMediaLink reload | Recarga la config del plugin'
+  - '&7'
+  - '&7---------------------------------------'
+  # "mensaje-discord: true" sirve para activar o desactivar el comando "discord"!
+  discord-message: true
+  # "mensaje-discord-texto: "" " sirve para poner o quitar el texto que saldra cuando alguien ponga /discord
+  message-discord-text:
+  - '&7---------------------------------------'
+  - '&7'
+  - '&1&L               DISCORD'
+  - '&7      (&bhttps://discord.gg/hypemc&7)&f '
+  - '&7'
+  - '&7---------------------------------------'
+  
+  
+  message-instagram: true
+  message-instagram-text:
+  - '&7---------------------------------------'
+  - '&7'
+  - '&5&L               Instagram'
+  - '&7      (&bhttps://www.instagram.com/&7)&f '
+  - '&7'
+  - '&7---------------------------------------'
+  
+  message-tiktok: true
+  message-tiktok-text:
+  - '&7---------------------------------------'
+  - '&7'
+  - '&8&L               TikTok'
+  - '&7      (&bhttps://www.tiktok.com/es/&7)&f '
+  - '&7'
+  - '&7---------------------------------------'
+  
+  
+  message-youtube: true
+  message-youtube-text:
+  - '&7---------------------------------------'
+  - '&7'
+  - '&4&L              Youtube'
+  - '&7      (&bhttps://www.youtube.com/&7)&f '
+  - '&7'
+  - '&7---------------------------------------'
+  
+  message-facebook: true
+  message-facebook-text:
+  - '&7---------------------------------------'
+  - '&7'
+  - '&9&L               FaceBook'
+  - '&7      (&bhttps://facebook.com/&7)&f '
+  - '&7'
+  - '&7---------------------------------------'
+  message-twitter: true
+  message-twitter-text:
+  - '&7---------------------------------------'
+  - '&7'
+  - '&b&L               Twitter'
+  - '&7      (&bhttps://twitter.com/&7)&f '
+  - '&7'
+  - '&7---------------------------------------'
