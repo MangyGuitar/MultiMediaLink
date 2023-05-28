@@ -1,4 +1,4 @@
-### ``THIS PLUGIN IS UNDER DEVELOPMENT AND IS NOT CURRENTLY AVAILABLE``
+### ``THIS PLUGIN IS IN BETA IF YOU FIND ANY BUG JOIN THE DISCORD: discord.gg/EmkG3KHYMD ``
 
 
 ![static (3)](https://github.com/MangyGuitar/MultiMediaLink/assets/114024328/ae89f123-9dad-4dce-bd45-ad819aae106d)
