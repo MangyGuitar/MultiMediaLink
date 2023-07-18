@@ -1,68 +1,78 @@
-Config:
-  noperm: '&cLosiento pero no tienes permisos para esto'
-  
-  help-message: true
-  message-help-text:
-  - '&7---------------------------------------'
-  - '&7'
-  - '&l&6 /MultiMediaLink help | Muestra este mensaje'
-  - '&l&6 /MultiMediaLink version | Muestra la versión del plugin'
-  - '&l&6 /MultiMediaLink reload | Recarga la config del plugin'
-  - '&7'
-  - '&7---------------------------------------'
-  # "mensaje-discord: true" sirve para activar o desactivar el comando "discord"!
-  discord-message: true
-  # "mensaje-discord-texto: "" " sirve para poner o quitar el texto que saldra cuando alguien ponga /discord
-  message-discord-text:
-  - '&7---------------------------------------'
-  - '&7'
-  - '&1&L               DISCORD'
-  - '&7      (&bhttps://discord.gg/hypemc&7)&f '
-  - '&7'
-  - '&7---------------------------------------'
-  
-  
-  message-instagram: true
-  message-instagram-text:
-  - '&7---------------------------------------'
-  - '&7'
-  - '&5&L               Instagram'
-  - '&7      (&bhttps://www.instagram.com/&7)&f '
-  - '&7'
-  - '&7---------------------------------------'
-  
-  message-tiktok: true
-  message-tiktok-text:
-  - '&7---------------------------------------'
-  - '&7'
-  - '&8&L               TikTok'
-  - '&7      (&bhttps://www.tiktok.com/es/&7)&f '
-  - '&7'
-  - '&7---------------------------------------'
-  
-  
-  message-youtube: true
-  message-youtube-text:
-  - '&7---------------------------------------'
-  - '&7'
-  - '&4&L              Youtube'
-  - '&7      (&bhttps://www.youtube.com/&7)&f '
-  - '&7'
-  - '&7---------------------------------------'
-  
-  message-facebook: true
-  message-facebook-text:
-  - '&7---------------------------------------'
-  - '&7'
-  - '&9&L               FaceBook'
-  - '&7      (&bhttps://facebook.com/&7)&f '
-  - '&7'
-  - '&7---------------------------------------'
-  message-twitter: true
-  message-twitter-text:
-  - '&7---------------------------------------'
-  - '&7'
-  - '&b&L               Twitter'
-  - '&7      (&bhttps://twitter.com/&7)&f '
-  - '&7'
-  - '&7---------------------------------------'
+onfig:
+    noperm: "&cLo siento, no tienes permisos para esto."
+    nonexistent-command: "&c Este comando no existe."
+    reload: "&a Recarga existosa."
+    version: "&a La version del plugin es: &c"
+    not-run-commands-in-console: "Este comando no existe."
+    
+    help-message: true
+    help-text: "&3 Usa '/multimedialink help' para ver todos los comandos."
+    message-help-text:
+      - "&7---------------------------------------"
+      - "&7"
+      - "&l&6 /MultiMediaLink help | Muestra este mensaje"
+      - "&l&6 /MultiMediaLink version | Muestra la version del plugin"
+      - "&l&6 /MultiMediaLink reload | Recargar configuraciones del plugin"
+      - "&7"
+      - "&7---------------------------------------"
+      
+    discord-message: true
+    message-discord-text:
+      - "&7---------------------------------------"
+      - "&7"
+      - "&1&L               Discord"
+      - "&7      (&bhttps://discord.com/&7)&f "
+      - "&7"
+      - "&7---------------------------------------"
+    sound: ENTITY_EXPERIENCE_ORB_PICKUP
+
+    message-instagram: true
+    message-instagram-text:
+      - "&7---------------------------------------"
+      - "&7"
+      - "&5&L               Instagram"
+      - "&7      (&bhttps://www.instagram.com/&7)&f "
+      - "&7"
+      - "&7---------------------------------------"
+    sound: ENTITY_EXPERIENCE_ORB_PICKUP
+    
+    message-tiktok: true
+    message-tiktok-text:
+      - "&7---------------------------------------"
+      - "&7"
+      - "&8&L               TikTok"
+      - "&7      (&bhttps://www.tiktok.com/&7)&f "
+      - "&7"
+      - "&7---------------------------------------"
+    sound: ENTITY_EXPERIENCE_ORB_PICKUP
+    
+    message-youtube: true
+    message-youtube-text:
+      - "&7---------------------------------------"
+      - "&7"
+      - "&4&L              Youtube"
+      - "&7      (&bhttps://www.youtube.com/&7)&f "
+      - "&7"
+      - "&7---------------------------------------"
+    sound: ENTITY_EXPERIENCE_ORB_PICKUP
+    
+    message-facebook: true
+    message-facebook-text:
+      - "&7---------------------------------------"
+      - "&7"
+      - "&9&L               Facebook"
+      - "&7      (&bhttps://facebook.com/&7)&f "
+      - "&7"
+      - "&7---------------------------------------"
+    sound: ENTITY_EXPERIENCE_ORB_PICKUP
+    
+    message-twitter: true
+    message-twitter-text:
+      - "&7---------------------------------------"
+      - "&7"
+      - "&b&L               Twitter"
+      - "&7      (&bhttps://twitter.com/&7)&f "
+      - "&7"
+      - "&7---------------------------------------"
+    sound: ENTITY_EXPERIENCE_ORB_PICKUP
+
