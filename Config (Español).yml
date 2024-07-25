@@ -1,4 +1,4 @@
-onfig:
+Config:
     noperm: "&cLo siento, no tienes permisos para esto."
     nonexistent-command: "&c Este comando no existe."
     reload: "&a Recarga existosa."
